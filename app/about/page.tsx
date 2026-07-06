@@ -197,7 +197,7 @@ export default function About() {
         </Reveal>
 
         <div className="flex flex-col divide-y divide-zinc-200 border-t border-b border-zinc-200">
-          <a href="/resume/swe-resume.pdf" target="_blank" className="flex items-center justify-between py-6 group">
+          <a href="/resumes/SWE_EngineeringResume.pdf" target="_blank" className="flex items-center justify-between py-6 group">
             <div>
               <p className="font-body text-xs font-medium tracking-widest uppercase text-zinc-400 mb-1">Software Engineering</p>
               <p className="font-display text-zinc-950 text-lg">SWE Resume</p>
@@ -205,7 +205,7 @@ export default function About() {
             <span className="font-body text-zinc-400 group-hover:text-zinc-950 transition-colors text-sm">Download →</span>
           </a>
 
-          <a href="/resume/ml-resume.pdf" target="_blank" className="flex items-center justify-between py-6 group">
+          <a href="/resumes/ML_EngineeringResume.pdf" target="_blank" className="flex items-center justify-between py-6 group">
             <div>
               <p className="font-body text-xs font-medium tracking-widest uppercase text-zinc-400 mb-1">AI Engineering</p>
               <p className="font-display text-zinc-950 text-lg">AI / ML Resume</p>
