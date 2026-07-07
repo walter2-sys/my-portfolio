@@ -44,7 +44,7 @@ export default function About() {
 
   return (
 
-    <main className="max-w-5xl mx-auto px-6 py-12 space-y-16">
+    <main className="max-w-3xl px-6 py-12 space-y-16">
 
       <div className="pb-16 mb-16 border-b border-zinc-200">
         <Reveal>
