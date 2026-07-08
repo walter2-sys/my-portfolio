@@ -11,7 +11,7 @@ const lines = [
   "",
   "const Taha = {",
   "  stack: ['Python', 'React', 'Next.js'],",
-  "  currently: 'Building something real',",
+  "  currently: 'Building real systems',",
   "  status: 'Open to work',",
   "}",
   "",
