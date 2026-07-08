@@ -3,7 +3,7 @@ import Terminal from "@/components/Terminal";
 
 export default function Hero() {
   return (
-    <section className="min-h-screen flex items-center max-w-5xl mx-auto px-6">
+    <section className="min-h-screen flex flex-col md:flex-row items-center max-w-5xl mx-auto px-6 py-24 gap-12">
 
       <div className="flex-1 flex flex-col justify-center">
         <p className="font-body text-xs font-medium tracking-widest uppercase text-zinc-400 mb-6">
@@ -29,7 +29,7 @@ export default function Hero() {
         </div>
       </div>
 
-      <div className="hidden md:flex flex-1 justify-end">
+      <div className="flex-1 w-full flex justify-center md:justify-end">
           <Terminal />
       </div>
 
